@@ -1,1 +1,1 @@
-# odin-recipes
+This is a odin's project about recipes. At the end there should be a fully functional page with an recipe and images as well.
